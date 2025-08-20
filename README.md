@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/marvakt/leetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/marvakt/leetCode/tree/master/0742-to-lower-case) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
