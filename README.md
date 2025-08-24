@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/marvakt/leetCode/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
@@ -28,8 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
