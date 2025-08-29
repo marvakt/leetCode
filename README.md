@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/marvakt/leetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/marvakt/leetCode/tree/master/2383-add-two-integers) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/marvakt/leetCode/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
