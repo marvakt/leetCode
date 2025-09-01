@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/marvakt/leetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/marvakt/leetCode/tree/master/0742-to-lower-case) |
+| [2235-capitalize-the-title](https://github.com/marvakt/leetCode/tree/master/2235-capitalize-the-title) |
 ## Bit Manipulation
 |  |
 | ------- |
