@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/marvakt/leetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/marvakt/leetCode/tree/master/0412-fizz-buzz) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/marvakt/leetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
