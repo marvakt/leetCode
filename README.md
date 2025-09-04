@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/marvakt/leetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/marvakt/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/marvakt/leetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/marvakt/leetCode/tree/master/2383-add-two-integers) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/marvakt/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/marvakt/leetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/marvakt/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/marvakt/leetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
