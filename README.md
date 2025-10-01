@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/marvakt/leetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/marvakt/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/marvakt/leetCode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
