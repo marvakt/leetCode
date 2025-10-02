@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/marvakt/leetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/marvakt/leetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/marvakt/leetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/marvakt/leetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/marvakt/leetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/marvakt/leetCode/tree/master/0326-power-of-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/marvakt/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/marvakt/leetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/marvakt/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/marvakt/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
