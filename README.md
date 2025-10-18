@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/marvakt/leetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marvakt/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/marvakt/leetCode/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/marvakt/leetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marvakt/leetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
