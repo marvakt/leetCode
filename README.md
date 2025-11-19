@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/marvakt/leetCode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/marvakt/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/marvakt/leetCode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/marvakt/leetCode/tree/master/0812-rotate-string) |
 | [2235-capitalize-the-title](https://github.com/marvakt/leetCode/tree/master/2235-capitalize-the-title) |
 ## Bit Manipulation
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/marvakt/leetCode/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/marvakt/leetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
