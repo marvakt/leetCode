@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/marvakt/leetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/marvakt/leetCode/tree/master/0812-rotate-string) |
 | [2235-capitalize-the-title](https://github.com/marvakt/leetCode/tree/master/2235-capitalize-the-title) |
+| [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/marvakt/leetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marvakt/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marvakt/leetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/marvakt/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/marvakt/leetCode/tree/master/0389-find-the-difference) |
+| [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/marvakt/leetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/marvakt/leetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marvakt/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
