@@ -1,12 +1,11 @@
 class Solution(object):
     def isValid(self, s):
-
         """
         :type s: str
         :rtype: bool
         """
         stack=[]
-        pairs={']':'[',')':'(','}':'{'}
+        pairs={'}':'{',']':'[',')':'('}
         for i in s:
             if i in pairs.values():
                 stack.append(i)
@@ -14,3 +13,4 @@ class Solution(object):
                 if not stack or stack.pop()!=pairs[i]:
                     return False
         return not stack
+        
