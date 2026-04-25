@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/marvakt/leetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/marvakt/leetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/marvakt/leetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/marvakt/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/marvakt/leetCode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/marvakt/leetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/marvakt/leetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/marvakt/leetCode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/marvakt/leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
