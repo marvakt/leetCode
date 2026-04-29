@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/marvakt/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/marvakt/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marvakt/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/marvakt/leetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marvakt/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/marvakt/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/marvakt/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/marvakt/leetCode/tree/master/0389-find-the-difference) |
 | [2502-sort-the-people](https://github.com/marvakt/leetCode/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/marvakt/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marvakt/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/marvakt/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/marvakt/leetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/marvakt/leetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marvakt/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/marvakt/leetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/marvakt/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marvakt/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/marvakt/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/marvakt/leetCode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/marvakt/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marvakt/leetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
