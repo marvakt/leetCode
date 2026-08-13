@@ -11,4 +11,5 @@ class Solution(object):
             if diff in seen:
                 return seen[diff],i
             seen[n]=i
+
         
